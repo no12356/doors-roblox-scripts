@@ -1,0 +1,13 @@
+loadstring(game:HttpGet("https://glot.io/snippets/gpw1ypnl5o/raw/main.lua"))()
+
+loadstring(game:HttpGet("https://glot.io/snippets/gp5pu59o7f/raw"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cool59572/freestuff/main/Fear_mode_multiplayer.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MuhXd/DoorSuff/main/DoorsModes/HardMode(Multplayer%2CProtected).lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MuhXd/Doors/main/Floor%202%20Mod"))()
+
+loadstring(game:HttpGet("https://github.com/MuhXd/DoorSuff/blob/main/CustomRoom/DoorsLotteryRoom.lua"))()
+
+all creditz go to icherrykardes, Viper (MuhammadGames) and TheJabiss. theres more but im too bored
